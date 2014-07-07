@@ -11,7 +11,7 @@ tags: jekyll, github
 </div>
 
 This might be a flickr image imbed
-<img src="https://www.flickr.com/photos/themosleyvault/14578041474/in/explore-2014-07-05">
+<img src="http://upload.wikimedia.org/wikipedia/en/a/a9/Example.jpg" /> 
 
 Testing markdown intermixed with html
 ============
