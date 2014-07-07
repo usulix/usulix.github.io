@@ -1,0 +1,23 @@
+# Dependencies
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Usulix
+tagline:          'Not all those who wander are lost.'
+description:      'The wanderings and investigations of a web application developer seeking consistency, performance, and purpose in the Internet.'
+url:              http://usulix.github.io
+baseurl:          '/'
+paginate:         5
+
+author:
+  name:           'Gregory Gray'
+  url:            https://getnetez.com
+
+# Custom vars
+version:          1.0.0
+
+github:
+  repo:           https://github.com/usulix/usulix.github.io
