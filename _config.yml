@@ -11,6 +11,7 @@ description:      'The wanderings and investigations of a web application develo
 url:              http://usulix.github.io
 baseurl:          '/'
 paginate:         5
+destination:      _gh-pages
 
 author:
   name:           'Gregory Gray'
